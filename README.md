@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋 I'm Fenil
 
-<!--
-**Fenil-Techy/Fenil-Techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building AI-powered applications and web products.
 
-Here are some ideas to get you started:
+I'm currently learning Software Engineering and Full-Stack Development while experimenting with AI tools to turn ideas into real startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+- Software Engineering
+- AI Powered App
+- SaaS Development
+
+Current Goal :
+Build products that solve real problems, generate revenue, and help me become a successful entrepreneur.
+
+```
+while(alive){
+    learn();
+    build();
+    ship();
+    repeat();
+}
+```
+
+> Build. Fail. Learn. Repeat.
